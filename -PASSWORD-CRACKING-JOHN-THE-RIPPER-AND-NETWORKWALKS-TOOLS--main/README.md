@@ -44,7 +44,7 @@ I first visited the official John the Ripper website to download the software fo
 
 I downloaded the Windows version and extracted the files so I could access the program.
 
-![alt text](https://github.com/PrudenceSelasiDela-Boso/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/1%20download%20JTR.png)
+![alt text]((https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/1%20download%20JTR.png))
 
 ![alt text](https://github.com/PrudenceSelasiDela-Boso/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/4%20extract%20john.png)
 
