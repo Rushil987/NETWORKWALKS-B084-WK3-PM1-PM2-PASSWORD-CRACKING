@@ -55,8 +55,7 @@ Next, I downloaded Johnny, the graphical interface for John the Ripper.
 
 **Download link:** [Johnny – Official Website](https://openwall.info/wiki/john/johnny)
 
-![alt text](https://github.com/PrudenceSelasiDela-Boso/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/2%20download%20johnny.png)
-
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/2%20download%20johnny.png)
 
 After downloading it, I ran the setup file and completed the installation.
 ![alt text](https://github.com/PrudenceSelasiDela-Boso/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/3%20Install%20the%20set%20up%20file%20of%20Johnny.png)
