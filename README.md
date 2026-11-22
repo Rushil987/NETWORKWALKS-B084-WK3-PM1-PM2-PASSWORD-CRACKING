@@ -58,7 +58,7 @@ Next, I downloaded Johnny, the graphical interface for John the Ripper.
 ![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/2%20download%20johnny.png)
 
 After downloading it, I ran the setup file and completed the installation.
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/3%20Install%20the%20set%20up%20file%20of%20Johnny.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/3%20Install%20the%20set%20up%20file%20of%20Johnny.png)
 
 ### Step 3: Open Johnny and Connect It to John the Ripper
 
@@ -73,7 +73,7 @@ I then followed these steps:
 5. Selected `john.exe`.
 6. Confirmed the selection.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/4%20open%20john.exe%20inside%20Johnny.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/4%20open%20john.exe%20inside%20Johnny.png)
 
 This connected Johnny to the main John the Ripper program so that it could carry out the password-testing process.
 
@@ -99,7 +99,7 @@ Then I:
 4. Waited for the website to process the file.
 5. Copied the hash value displayed on the screen.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/5%20upload%20pdf%20locked%20file%201.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/5%20upload%20pdf%20locked%20file%201.png)
 
 **A little thing to watch out for:** The extracted hash should begin with `$pdf$`. I made sure to copy the complete value without leaving out any part.
 
@@ -111,7 +111,7 @@ After copying the hash, I opened Notepad.
 
 I pasted the copied hash into the blank document and saved the file.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/6%20save%20hash%20in%20notes.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/6%20save%20hash%20in%20notes.png)
 
 This text file contained the hash that Johnny would use for the password-testing exercise.
 
@@ -125,7 +125,7 @@ I opened Johnny again and followed these steps:
 
 The hash was then loaded into Johnny and displayed in the application.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/7%20open%20password%20file.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/7%20open%20password%20file.png)
 
 ### Step 8: Start the Password Test
 
@@ -135,7 +135,7 @@ John the Ripper began testing possible passwords against the hash.
 
 How long it takes can depend on the computer being used and how difficult the password is to guess.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/8%20start%20new%20attack.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/8%20start%20new%20attack.png)
 
 ### Step 9: Check the Result
 
@@ -143,13 +143,13 @@ I waited for the password-testing process to finish.
 
 When a matching password was found, Johnny displayed it in the application.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/9%20cracked%20password.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/9%20cracked%20password.png)
 
 I then used the recovered password to open the locked PDF file and confirm that it worked.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/10%20enter%20password%20to%20open.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/10%20enter%20password%20to%20open.png)
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/11%20file%20opened.png) 
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/11%20file%20opened.png) 
 
 **That completed my first password-cracking exercise using John the Ripper and Johnny.**
 
@@ -187,7 +187,7 @@ I first visited the Networkwalks project task page and downloaded the PDF file p
 
 [Networkwalks – Password Cracking with Networkwalks Tools](https://networkwalks.com/project-task-lab-password-cracking-with-networkwalks-tools/)
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/1%20download%20locked%20file.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/1%20download%20locked%20file.png)
 
 I saved the file on my laptop so I could upload it to the Hash Calculator.
 
@@ -212,7 +212,7 @@ I then:
 
 After processing, the tool displayed the extracted PDF hash.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/2%20open%20hash%20calc%20and%20update.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/2%20open%20hash%20calc%20and%20update.png)
 
 
 ### Step 4: Copy the Hash
@@ -238,9 +238,9 @@ On the Password Cracker page, I:
 3. Checked that the hash was in the box.
 4. Clicked **Start Cracking**.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/3%20paste%20hash%20into%20cracker.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/3%20paste%20hash%20into%20cracker.png)
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/6%20Open%20file.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/6%20Open%20file.png)
 
 The tool began testing possible passwords against the hash.
 
@@ -252,7 +252,7 @@ The time taken depends on the password being tested and the available wordlist.
 
 Once the tool found a match, it displayed a successful password recovery message on the screen.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/4%20Password%20cracked.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/4%20Password%20cracked.png)
 
 ### Step 8: Open the PDF File
 
@@ -262,7 +262,7 @@ I entered the recovered password when prompted.
 
 The PDF opened successfully, confirming that the password worked.
 
-![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS-/blob/main/5%20enter%20cracked%20password.png)
+![alt text](https://github.com/Rushil987/NETWORKWALKS-B084-WK3-PM1-PM2-PASSWORD-CRACKING/blob/main/-PASSWORD-CRACKING-JOHN-THE-RIPPER-AND-NETWORKWALKS-TOOLS--main/5%20enter%20cracked%20password.png)
 
 **That completed my second password-cracking exercise using the Networkwalks tools.**
 
